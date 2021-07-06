@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/chowNow.jpg",
+        "alt": "Chow Now homepage",
+        "title": "Chow Now",
+        "description": "An App designed to allow easy group ordering.",
+        "deployed_url": "https://pure-fortress-22710.herokuapp.com/",
+        "repo_url": "https://github.com/bborumoore/chow-now"
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/spacee.png",
+        "alt": "Space-E homepage",
+        "title": "Space-E",
+        "description": "RESTful API that fetches space-related data from several public third-party APIs and displays that information in a useful way - including upcoming calendar events.",
+        "deployed_url": "https://space-e.herokuapp.com/",
+        "repo_url": "https://github.com/bborumoore/space-e"
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/largeLayoutMars.png",
+        "alt": "Mars Daily homepage",
+        "title": "Mars Daily",
+        "description": "An app that shows you the latest weather updates from various NASA APIs.",
+        "deployed_url": "https://bborumoore.github.io/mars-daily/",
+        "repo_url": "https://github.com/bborumoore/mars-daily"
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/weather-dashboard.png",
+        "alt": "Weather Dashboard homepage",
+        "title": "Weather Dashboard",
+        "description": "A tool using the OpenWeather API to allow you to search for Weather forecasts.",
+        "deployed_url": "https://vruss14.github.io/coding-quiz/",
+        "repo_url": "https://github.com/vruss14/coding-quiz"
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/eCommerce.png",
+        "alt": "Ecommerce back-end",
+        "title": "E-Commerce Site",
+        "description": "A functional back-end for an e-commerce site. Users can create, read, update, and delete product information as needed. Website link plays a video walkthrough.",
+        "deployed_url": "https://drive.google.com/file/d/1rFDbqX27oa4CmZHM9OKdM11T-8q28uDA/view?usp=sharing",
+        "repo_url": "https://github.com/bborumoore/E-commerce-back-end"
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/employeeTracker.png",
+        "alt": "CLI employee tracker",
+        "title": "Employee Tracker",
+        "description": "Simple CLI tool to track Employee Organization information. Website link plays a video walkthrough.",
+        "deployed_url": "https://drive.google.com/file/d/1a2XpUUQuBfBn5p24aiUCqbXaaC3w_WS7/view?usp=sharing",
+        "repo_url": "https://github.com/bborumoore/employee-tracker-in-terminal"
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/buffer.png",
+        "alt": "white space",
+        "title": "",
+        "description": "",
+        "deployed_url": "",
+        "repo_url": ""
+    }       
+]

@@ -1,0 +1,8 @@
+.project-wrapper {
+    display: flex;
+    border: black;
+    width:  90%;
+    min-width: 400px;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}

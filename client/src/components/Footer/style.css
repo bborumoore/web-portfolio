@@ -1,0 +1,16 @@
+footer {
+    align-items: center;
+    background-color: cadetblue;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    bottom: 0px;
+    padding: 10px;
+}
+
+.footer-icon {
+    margin: 0px 10px;
+}

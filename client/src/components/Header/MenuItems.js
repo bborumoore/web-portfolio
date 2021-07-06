@@ -1,7 +1,8 @@
 export const MenuItems = [
     {
         title: "Home",
-        url: '/', /*this is where you put the link*/
+        url: '/', 
+        target: "",
         cName: 'nav-links'
     },
     {
@@ -19,7 +20,6 @@ export const MenuItems = [
     {
         title: "Projects",
         url: '/Projects', 
-        target: "_blank",
         cName: 'nav-links'
     },
     {

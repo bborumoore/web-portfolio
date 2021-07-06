@@ -1,0 +1,7 @@
+.image-card {
+    border: 3px solid black;
+    margin: 3px;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
