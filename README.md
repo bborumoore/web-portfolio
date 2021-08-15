@@ -36,14 +36,14 @@ Here's a list of tech, frameworks, and libraries I've become familiar with so fa
 ## How to Use
 The site features and easy-to-use navigation bar that will take you to my most updated Resume, LinkedIn Profile, and GitHub page!  Feel free to click around and check things out. 
   
-[Back to Top](#brian's-react-portfolio)
+[Back to Top](#table-of-contents)
 
 ---
 ## Author Info
 - Brian Moore - [https://github.com/bborumoore](https://ca.slack-edge.com/T01J4FQGGA2-U01JG5DPJF4-ac50be6c54cc-512)
 As stated above, I'm fairly new to coding and development, but I love it here.  My projects in the Automotive industry pushed me to learn about Database structures and analysis, and it was a small step from there to web development.
   
-[Back to Top](#Brian's-React-Portfolio)
+[Back to Top](#table-of-contents)
 
 ---
 ## Credits
@@ -75,7 +75,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
    
-[Back to Top](#Brian's-React-Portfolio)
+[Back to Top](#table-of-contents)
 
 ---
 Made by Brian Moore 
