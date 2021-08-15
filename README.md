@@ -30,7 +30,7 @@ Here's a list of tech, frameworks, and libraries I've become familiar with so fa
 - GitHub
 - GitBash 
   
-[Back to Top](#Brian's-React-Portfolio)
+[Back to Top](#table-of-contents)
 
 ---
 ## How to Use
