@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://bborumoore.github.io/",
+  "name": "web-portfolio",
+  "homepage": "https://bborumoore.github.io/web-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
