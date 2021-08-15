@@ -1,5 +1,4 @@
 # Brian's React Portfolio
-![Dashboard Image](src/assets/images/selfPortrait.png)
 > [Brian's React Portfolio](https://bborumoore.github.io/mars-daily/ )
 ---
 ### Table of Contents
