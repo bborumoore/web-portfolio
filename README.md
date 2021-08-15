@@ -36,7 +36,7 @@ Here's a list of tech, frameworks, and libraries I've become familiar with so fa
 ## How to Use
 The site features and easy-to-use navigation bar that will take you to my most updated Resume, LinkedIn Profile, and GitHub page!  Feel free to click around and check things out. 
   
-[Back to Top](#Brian's-React-Portfolio)
+[Back to Top](#brian's-react-portfolio)
 
 ---
 ## Author Info
