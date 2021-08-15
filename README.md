@@ -1,5 +1,5 @@
 # Brian's React Portfolio
-> [Brian's React Portfolio](https://bborumoore.github.io/mars-daily/ )
+> [Brian's React Portfolio](https://bborumoore.github.io/web-portfolio/ )
 ---
 ### Table of Contents
 - [Description](#description)
