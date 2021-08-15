@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "image": "\"../../assets/images/chowNow.jpg\"",
+        "alt": "Chow Now homepage",
+        "title": "Chow Now",
+        "description": "An App designed to allow easy group ordering.",
+        "deployed_url": "https://pure-fortress-22710.herokuapp.com/",
+        "repo_url": "https://github.com/bborumoore/chow-now"
+    }      
+]
