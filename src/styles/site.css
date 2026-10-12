@@ -178,6 +178,34 @@ h1 {
   box-shadow: var(--shadow);
 }
 
+.metric-grid {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.55rem;
+}
+
+.metric-grid li {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: 10px;
+  padding: 0.65rem;
+}
+
+.metric-grid span {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.metric-grid p {
+  margin: 0;
+  color: var(--text-muted);
+}
+
 .button {
   display: inline-flex;
   align-items: center;
@@ -204,6 +232,7 @@ h1 {
 
 .section {
   padding: 2.1rem 0;
+  scroll-margin-top: 90px;
 }
 
 .section h2 {
@@ -301,6 +330,13 @@ h1 {
 .project-count {
   color: var(--text-muted);
   margin: 0.5rem 0 1rem;
+}
+
+.status-legend {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin: 0 0 0.8rem;
 }
 
 .project-grid {
@@ -431,6 +467,10 @@ h1 {
   .hero-layout {
     grid-template-columns: 2fr 1fr;
     align-items: center;
+  }
+
+  .metric-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .project-controls {

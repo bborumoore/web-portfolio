@@ -41,6 +41,17 @@ export default function App() {
     [],
   );
 
+  const projectStats = useMemo(
+    () => ({
+      total: projects.length,
+      active: projects.filter((project) => project.status === "active").length,
+      maintained: projects.filter((project) => project.status === "maintained")
+        .length,
+      archived: projects.filter((project) => project.status === "archived").length,
+    }),
+    [],
+  );
+
   useEffect(() => {
     document.title = `${profile.displayName} | ${profile.headline}`;
     updateMetaDescription(
@@ -80,6 +91,25 @@ export default function App() {
                   Download resume
                 </a>
               </div>
+
+              <ul className="metric-grid" aria-label="Project portfolio summary">
+                <li>
+                  <span>{projectStats.total}</span>
+                  <p>Public projects</p>
+                </li>
+                <li>
+                  <span>{projectStats.active}</span>
+                  <p>Active</p>
+                </li>
+                <li>
+                  <span>{projectStats.maintained}</span>
+                  <p>Maintained</p>
+                </li>
+                <li>
+                  <span>{projectStats.archived}</span>
+                  <p>Archived</p>
+                </li>
+              </ul>
             </div>
             <figure className="hero-portrait">
               <img src={projectMedia.selfPortrait} alt="Portrait of Brian Moore" />
@@ -215,6 +245,12 @@ export default function App() {
           <p className="project-count" aria-live="polite">
             Showing {filteredProjects.length} of {projects.length} public projects.
           </p>
+
+          <div className="status-legend" aria-label="Project status legend">
+            <span className="status status--active">active</span>
+            <span className="status status--maintained">maintained</span>
+            <span className="status status--archived">archived</span>
+          </div>
 
           <div className="project-grid">
             {filteredProjects.map((project) => (
