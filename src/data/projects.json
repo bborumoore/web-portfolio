@@ -231,7 +231,7 @@
     "repoUrl": "https://github.com/Bborumoore/horiseon",
     "liveUrl": "",
     "stack": ["HTML", "CSS", "Accessibility"],
-    "imageKey": "horiseon"
+    "imageKey": "none"
   },
   {
     "id": "travel-plan",
@@ -335,7 +335,7 @@
     "repoUrl": "https://github.com/Bborumoore/web-portfolio",
     "liveUrl": "",
     "stack": ["React", "JavaScript", "CSS"],
-    "imageKey": "topBanner"
+    "imageKey": "none"
   },
   {
     "id": "ansible-first-project",

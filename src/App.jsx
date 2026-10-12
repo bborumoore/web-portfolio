@@ -111,9 +111,11 @@ export default function App() {
                 </li>
               </ul>
             </div>
-            <figure className="hero-portrait">
-              <img src={projectMedia.selfPortrait} alt="Portrait of Brian Moore" />
-            </figure>
+            <div className="hero-portrait hero-portrait--text" aria-label="Profile highlight">
+              <p>Automation engineer</p>
+              <p>Security-minded builder</p>
+              <p>Project-focused communicator</p>
+            </div>
           </div>
         </section>
 

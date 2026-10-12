@@ -178,6 +178,25 @@ h1 {
   box-shadow: var(--shadow);
 }
 
+.hero-portrait--text {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+.hero-portrait--text p {
+  margin: 0;
+  font-weight: 600;
+}
+
+.hero-portrait--text p + p {
+  margin-top: 0.5rem;
+  color: var(--text-muted);
+}
+
 .metric-grid {
   list-style: none;
   padding: 0;
