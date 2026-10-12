@@ -1,0 +1,16 @@
+{
+  "githubUsername": "Bborumoore",
+  "excludedRepos": [
+    "another-project",
+    "new-game",
+    "collab-test",
+    "test-repository",
+    "zen-garden",
+    "prework-about-me",
+    "portfolio-update",
+    "portfolio-update-1",
+    "gitignore",
+    "conflict-resolution"
+  ],
+  "prototypeRule": "Prototype projects are intentionally excluded from public rendering."
+}
