@@ -33,6 +33,11 @@ npm run build
 npm run audit
 ```
 
+## Deployment
+- GitHub Pages serves from the `gh-pages` branch.
+- The workflow `.github/workflows/deploy-gh-pages.yml` now auto-deploys on every push to `main`.
+- If you merge changes into `main`, deployment runs automatically and updates the live site URL.
+
 ## Content management
 Primary editable files:
 - `src/data/profile.json`
