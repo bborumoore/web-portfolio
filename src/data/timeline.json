@@ -1,0 +1,32 @@
+[
+  {
+    "period": "2021 - Present",
+    "role": "Ansible Automation Engineer",
+    "organization": "Dell",
+    "summary": "Focused on security-focused automation and lifecycle maintenance across enterprise infrastructure. Work is described at a high level to respect NDA boundaries."
+  },
+  {
+    "period": "2021",
+    "role": "Full Stack Development Certification",
+    "organization": "Michigan State University",
+    "summary": "Completed collaborative front-end and back-end web development training with a JavaScript-centered stack."
+  },
+  {
+    "period": "2020 - 2021",
+    "role": "Project Manager / Senior WPI Specialist",
+    "organization": "Realizing Operational Improvement",
+    "summary": "Managed a multi-person launch team supporting automotive production ramps, balancing delivery targets, throughput goals, and cross-functional coordination."
+  },
+  {
+    "period": "2019 - 2020",
+    "role": "Financial Tracking and Prediction Project Lead",
+    "organization": "Automotive Manufacturing Programs",
+    "summary": "Built and deployed a department-level Access database and forecasting models for large-budget operational analysis."
+  },
+  {
+    "period": "2017 - 2019",
+    "role": "Launch and Continuous Improvement Leadership",
+    "organization": "Automotive Programs",
+    "summary": "Led distributed process-improvement initiatives across facilities in the U.S. and Mexico, with measurable OEE and cycle-time gains."
+  }
+]

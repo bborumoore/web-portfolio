@@ -1,0 +1,32 @@
+{
+  "displayName": "BBoruMoore",
+  "fullName": "Brian Moore",
+  "headline": "Project-based excellence",
+  "location": "San Antonio, TX",
+  "email": "bborumoore@gmail.com",
+  "githubUrl": "https://github.com/Bborumoore",
+  "linkedinUrl": "https://www.linkedin.com/in/brianbmoore/",
+  "shortBio": "I'm an eclectic developer always seeking to learn new things. I move from project to project in pursuit of new skills, and if there is room for growth, I'm in.",
+  "aboutParagraphs": [
+    "I shifted into software development after building a foundation in operations-heavy project environments. That transition sharpened my interest in systems thinking, practical automation, and quality-focused delivery.",
+    "Today I work as an Ansible automation engineer at Dell, with responsibilities centered on security and lifecycle maintenance. Because the role is NDA-constrained, I share outcomes and process strengths publicly instead of sensitive implementation details.",
+    "My portfolio spans automation, full-stack applications, and game-development experiments. Across all of them, the through-line is the same: learn fast, solve real problems, and leave systems more reliable than I found them."
+  ],
+  "focusAreas": [
+    "Infrastructure and automation workflows",
+    "Security-minded lifecycle maintenance",
+    "Full-stack JavaScript applications",
+    "Project execution and cross-team delivery"
+  ],
+  "values": [
+    "Lifelong learning",
+    "Resilience under changing constraints",
+    "Quality over shortcuts"
+  ],
+  "cta": {
+    "primaryLabel": "Email me",
+    "primaryUrl": "mailto:bborumoore@gmail.com",
+    "secondaryLabel": "View GitHub",
+    "secondaryUrl": "https://github.com/Bborumoore"
+  }
+}

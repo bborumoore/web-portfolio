@@ -1,0 +1,497 @@
+[
+  {
+    "id": "tech-blog",
+    "title": "tech blog",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "active",
+    "highlight": false,
+    "year": 2026,
+    "repoUrl": "https://github.com/bborumoore/tech-blog",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "space-e",
+    "title": "space e",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "active",
+    "highlight": false,
+    "year": 2026,
+    "repoUrl": "https://github.com/bborumoore/space-e",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "openmanage-enterprise",
+    "title": "OpenManage Enterprise",
+    "summary": "Script collateral leveraging the OME/OME-M REST APIs",
+    "category": "Automation & Security",
+    "status": "active",
+    "highlight": false,
+    "year": 2025,
+    "repoUrl": "https://github.com/bborumoore/OpenManage-Enterprise",
+    "liveUrl": "",
+    "stack": [
+      "Python"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "dell-sonic-os-load-balancing-test",
+    "title": "Dell SONiC OS Load balancing Test",
+    "summary": "This is my attempt to validate the load-balancing features of Dell switches running on SONiC OS",
+    "category": "General Software",
+    "status": "active",
+    "highlight": false,
+    "year": 2025,
+    "repoUrl": "https://github.com/bborumoore/Dell-SONiC-OS-Load-balancing-Test",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "windows-2022-stig",
+    "title": "Windows 2022 STIG",
+    "summary": "Automated STIG Benchmark Compliance Remediation for Windows Server 2022 with Ansible",
+    "category": "Automation & Security",
+    "status": "active",
+    "highlight": false,
+    "year": 2025,
+    "repoUrl": "https://github.com/bborumoore/Windows-2022-STIG",
+    "liveUrl": "https://www.lockdownenterprise.com",
+    "stack": [
+      "YAML"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "cardpackbattler",
+    "title": "CardPackBattler",
+    "summary": "An attempt at an online card game focused on real-time deck drafting against opponents",
+    "category": "Game Development",
+    "status": "active",
+    "highlight": false,
+    "year": 2025,
+    "repoUrl": "https://github.com/bborumoore/CardPackBattler",
+    "liveUrl": "",
+    "stack": [
+      "C#"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "ansible-first-project",
+    "title": "ansible first project",
+    "summary": "Intended to be a small ansible project to learn some of the basics",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2023,
+    "repoUrl": "https://github.com/bborumoore/ansible-first-project",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "slime-time-repo",
+    "title": "slime time repo",
+    "summary": "A repository for a collaborative project developing a platformer.",
+    "category": "Game Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/slime-time-repo",
+    "liveUrl": "",
+    "stack": [
+      "Mathematica"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "fruity-bird",
+    "title": "fruity bird",
+    "summary": "My fifth Unity project, a flappy bird clone with fruit eating and seed shooting mechanics added in.",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/fruity-bird",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "grav-maga",
+    "title": "grav maga",
+    "summary": "My fourth Unity project, this is a very simple platformer that allows the user to switch the direction of gravity",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/grav-maga",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "mini-terra",
+    "title": "mini terra",
+    "summary": "My third Unity project, this game aims to be a simple adventure/puzzle game.",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/mini-terra",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "slime-time",
+    "title": "slime time",
+    "summary": "My second Unity project - a 2D platformer involving size manipulation of the player character",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/slime-time",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "square-hole",
+    "title": "square hole",
+    "summary": "My first game development project",
+    "category": "Game Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/square-hole",
+    "liveUrl": "",
+    "stack": [
+      "C#"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "web-portfolio",
+    "title": "web portfolio",
+    "summary": "This is my full portfolio of web dev projects, written in the React framework",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/web-portfolio",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "daily-planner",
+    "title": "daily planner",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/daily-planner",
+    "liveUrl": "",
+    "stack": [
+      "HTML"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "employee-tracker-in-terminal",
+    "title": "employee tracker in terminal",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/employee-tracker-in-terminal",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "e-commerce-back-end",
+    "title": "E commerce back end",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/E-commerce-back-end",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "progressive-budget",
+    "title": "progressive budget",
+    "summary": "This is a Progressive Web Application designed for budget tracking and updating.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/progressive-budget",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "chow-now",
+    "title": "chow now",
+    "summary": "This app will allow for group collaboration when ordering food.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/chow-now",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "portfolio",
+    "title": "Portfolio",
+    "summary": "A Portfolio of my personal web development projects",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/Portfolio",
+    "liveUrl": "",
+    "stack": [
+      "HTML"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "weather-dashboard",
+    "title": "weather dashboard",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/weather-dashboard",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "mars-daily",
+    "title": "mars daily",
+    "summary": "An application to display current Mars weather information and photo-imagery",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/mars-daily",
+    "liveUrl": "",
+    "stack": [
+      "HTML"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "fitness-tracker",
+    "title": "fitness tracker",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/fitness-tracker",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "team-profile-generator",
+    "title": "team profile generator",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/team-profile-generator",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "user-directory",
+    "title": "user directory",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/user-directory",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "google-books-react-search",
+    "title": "google books react search",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/google-books-react-search",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "travel-plan",
+    "title": "travel plan",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/travel-plan",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "employee-tracker",
+    "title": "employee tracker",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "General Software",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/employee-tracker",
+    "liveUrl": "",
+    "stack": [
+      "Unknown"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "note-taker",
+    "title": "note taker",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/note-taker",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "generate-markdown",
+    "title": "generate markdown",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/generate-markdown",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "coding-quiz",
+    "title": "coding quiz",
+    "summary": "This site is designed to present a coding quiz to the user that selects from a pool of questions and presents them in a random order.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/coding-quiz",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "password-generator",
+    "title": "password generator",
+    "summary": "Repository listed from GitHub. Add a custom summary in src/data/projects.json.",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/password-generator",
+    "liveUrl": "",
+    "stack": [
+      "JavaScript"
+    ],
+    "imageKey": "none"
+  },
+  {
+    "id": "horiseon",
+    "title": "horiseon",
+    "summary": "Repository for main branch of Horiseon website",
+    "category": "Web Development",
+    "status": "maintained",
+    "highlight": false,
+    "year": 2021,
+    "repoUrl": "https://github.com/bborumoore/horiseon",
+    "liveUrl": "",
+    "stack": [
+      "HTML"
+    ],
+    "imageKey": "none"
+  }
+]
