@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">BBoruMoore portfolio preview</title>
+  <desc id="desc">Minimal portfolio banner with the text Bborumoore and project-based excellence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#131416" />
+      <stop offset="100%" stop-color="#1d1f24" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="80" y="80" width="1040" height="470" rx="28" fill="#f6f7fa" />
+  <rect x="120" y="130" width="14" height="320" rx="6" fill="#c1121f" />
+  <text x="170" y="250" fill="#1f2126" font-size="72" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    Bborumoore
+  </text>
+  <text x="170" y="330" fill="#4f5661" font-size="44" font-family="Arial, Helvetica, sans-serif">
+    Project-based excellence
+  </text>
+  <text x="170" y="410" fill="#4f5661" font-size="30" font-family="Arial, Helvetica, sans-serif">
+    Automation " Security " Full-stack delivery
+  </text>
+</svg>
