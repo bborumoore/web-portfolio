@@ -7,7 +7,7 @@ Eclectic developer and automation engineer focused on growth through project exe
 
 ## Current Role
 ### Ansible Automation Engineer - Dell
-**2021 - Present**
+**Jan 2025 - Present**
 
 - Build and maintain infrastructure automation workflows.
 - Support security-focused lifecycle maintenance across enterprise environments.
@@ -15,6 +15,13 @@ Eclectic developer and automation engineer focused on growth through project exe
 - Deliver outcomes in NDA-constrained settings using high-level documentation and process rigor.
 
 ## Previous Experience
+### Ansible Automation Engineer - PGTek
+**Jul 2023 - Jan 2025**
+
+- Delivered automation initiatives in the same core function later continued at Dell.
+- Supported secure lifecycle maintenance and repeatable operational workflows.
+- Partnered with engineering teams to improve reliability and standardize execution patterns.
+
 ### Project Manager / Senior WPI Specialist - Realizing Operational Improvement
 **2020 - 2021**
 
