@@ -1,9 +1,15 @@
 [
   {
-    "period": "2021 - Present",
+    "period": "Jan 2025 - Present",
     "role": "Ansible Automation Engineer",
     "organization": "Dell",
     "summary": "Focused on security-focused automation and lifecycle maintenance across enterprise infrastructure. Work is described at a high level to respect NDA boundaries."
+  },
+  {
+    "period": "Jul 2023 - Jan 2025",
+    "role": "Ansible Automation Engineer",
+    "organization": "PGTek",
+    "summary": "Delivered automation and lifecycle-focused infrastructure work in the same functional role now continued at Dell, with emphasis on repeatable operations and secure maintenance practices."
   },
   {
     "period": "2021",
